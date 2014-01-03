@@ -1,7 +1,7 @@
 Paperclip
 =========
 
-[![Build Status](https://secure.travis-ci.org/clod81/paperclip.png?branch=master)](http://travis-ci.org/clod81/paperclip) [![Dependency Status](https://gemnasium.com/clod81/paperclip.png?travis)](https://gemnasium.com/clod81/paperclip) [![Code Climate](https://codeclimate.com/github/clod81/paperclip.png)](https://codeclimate.com/github/clod81/paperclip)
+[![Build Status](https://secure.travis-ci.org/clod81/paperclip.png?branch=master)](http://travis-ci.org/clod81/paperclip) [![Dependency Status](https://gemnasium.com/clod81/thoughtbot.png?travis)](https://gemnasium.com/thoughtbot/paperclip) [![Code Climate](https://codeclimate.com/github/thoughtbot/paperclip.png)](https://codeclimate.com/github/thoughtbot/paperclip)
 
 Paperclip is intended as an easy file attachment library for Active Record. The
 intent behind it was to keep setup as easy as possible and to treat files as
